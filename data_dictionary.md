@@ -17,3 +17,12 @@
 | Region          | Geographic region                   |
 | Age             | Age of the individual               |
 | Purchased Bike  | Whether the individual purchased a bike (Yes/No) |
+
+## Working Sheet
+
+Includes all columns from bike_buyers sheet plus:
+| Column          | Description                         |
+|-----------------|-------------------------------------|
+| Age Brackets    | Age group (e.g., Young, Middle Age, Old) |
+
+
