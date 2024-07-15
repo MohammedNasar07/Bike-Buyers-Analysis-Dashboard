@@ -25,4 +25,7 @@ Includes all columns from bike_buyers sheet plus:
 |-----------------|-------------------------------------|
 | Age Brackets    | Age group (e.g., Young, Middle Age, Old) |
 
+## Pivot Table
+
+Summary of income by gender and bike purchase status.
 
