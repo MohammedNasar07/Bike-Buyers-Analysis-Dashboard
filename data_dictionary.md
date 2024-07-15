@@ -29,3 +29,6 @@ Includes all columns from bike_buyers sheet plus:
 
 Summary of income by gender and bike purchase status.
 
+## Dashboard
+
+Visual representation of key insights from the dataset.
